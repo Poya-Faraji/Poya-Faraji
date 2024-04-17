@@ -4,13 +4,13 @@
 <h2 align="center">Hello 👋, My name is Poya</h2>
 <h3 align="left">I am a Frontend Developer</h3>
 
-- 🌱 I’m currently working on: **Angular Projects**
+- 🌱 I’m currently working on: **Angular and Node JS projects**
 
 - 💬 Ask me about **Angular, Frontend, Web and more...**
 
 - 📫 My Contact Email: **poya.faraji@outlook.com**
 
-- ⚡ Fun fact **I am space lover.**
+- ⚡ Fun fact **I am a space lover.**
 
 <h3 align="left">Checkout my socials:</h3>
 <p align="left">
