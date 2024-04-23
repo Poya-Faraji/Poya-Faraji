@@ -4,9 +4,9 @@
 <h2 align="center">Hello 👋, My name is Poya</h2>
 <h3 align="left">I am a Frontend Developer</h3>
 
-- 🌱 I’m currently working on: **Angular and Node JS projects**
+- 🌱 I’m currently studying software engineering at a vocational university and working on: **Angular and Node JS projects**
 
-- 💬 Ask me about **Angular, Frontend, Web and more...**
+- 💬 Ask me about **Angular, Software Engineering, Web development and more...**
 
 - 📫 My Contact Email: **poya.faraji@outlook.com**
 
