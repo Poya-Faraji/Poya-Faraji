@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently studying software engineering at a vocational university and working on: **Angular and Node JS projects**
 
-- 💬 Ask me about **Angular, Software Engineering, Web development and more...**
+- 💬 Ask me about **Angular, Software Engineering, Web development and Web in general...**
 
 - 📫 My Contact Email: **poya.faraji@outlook.com**
 
