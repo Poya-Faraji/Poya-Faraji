@@ -2,15 +2,15 @@
 ![Space](space.gif)
 
 <h2 align="center">Hello 👋, My name is Poya</h2>
-<h3 align="left">I am a Frontend Developer</h3>
+<h3 align="left">I am a Web Developer and a Programmer</h3>
 
-- 🌱 I’m currently studying software engineering at a vocational university and working on: **Angular and Node JS projects**
+- 🌱 I’m currently studying Software Engineering at a vocational university and working on: **Game Development Projects**
 
-- 💬 Ask me about **Angular, Software Engineering, Web development, and Web in general...**
+- 💬 Ask me about **Angular, NextJS, Goodot, Software Engineering, Web development, and programming in general...**
 
 - 📫 My Contact Email: **poya.faraji@outlook.com**
 
-- ⚡ Fun fact **I am a space lover.**
+- ⚡ Fun fact **I am a space lover. Love making games on my free time and coding in general**
 
 <h3 align="left">Checkout my socials:</h3>
 <p align="left">
