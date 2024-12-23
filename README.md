@@ -4,7 +4,7 @@
 <h2 align="center">Hello 👋, My name is Poya</h2>
 <h3 align="left">I am a Web Developer and a Programmer</h3>
 
-- 🌱 I’m currently studying Software Engineering at a vocational university and working on: **Game Development Projects**
+- 🌱 I’m currently studying Software Engineering at a vocational university and working on: **Fullstack Projects**
 
 - 💬 Ask me about **Angular, NextJS, Goodot, Software Engineering, Web development, and programming in general...**
 
@@ -47,6 +47,7 @@
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![daily.dev](https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=daily.dev&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
