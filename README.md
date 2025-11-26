@@ -1,16 +1,16 @@
 
 ![Space](space.gif)
 
-<h2 align="center">Hello 👋, My name is Poya</h2>
-<h3 align="left">I am a Web Developer and a Programmer</h3>
+<h2 align="center">Hello 👋, My name is Pouya</h2>
+<h3 align="left">I am a Web Developer and I enjoy coding</h3>
 
-- 🌱 I’m currently studying Software Engineering at a vocational university and working on: **Fullstack Projects**
+- 🌱 I have a Bachelor's degree in Software Engineering from the Technical University of Tabriz, and I’m currently working on **Fullstack Projects**.
 
-- 💬 Ask me about **Angular, NextJS, Goodot, Software Engineering, Web development, and programming in general...**
+- 💬 Feel free to ask me about **web development, Software Engineering and programming in general**.
 
 - 📫 My Contact Email: **poya.faraji@outlook.com**
 
-- ⚡ Fun fact **I am a space lover. Love making games on my free time and coding in general**
+- ⚡ Fun fact: **I love space, enjoy learning new things in my free time, and coding in general.**
 
 <h3 align="left">Checkout my socials:</h3>
 <p align="left">
