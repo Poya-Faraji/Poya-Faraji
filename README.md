@@ -8,14 +8,14 @@
 
 - 💬 Feel free to ask me about **web development, Software Engineering and programming in general**.
 
-- 📫 My Contact Email: **poya.faraji@outlook.com**
+- 📫 My Contact Email: **pouya-faraji@outlook.com**
 
 - ⚡ Fun fact: **I love space, enjoy learning new things in my free time, and coding in general.**
 
 <h3 align="left">Checkout my socials:</h3>
 <p align="left">
-<a href="https://twitter.com/thepoyafaraji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thepoyafaraji" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/poya-faraji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="poya-faraji" height="30" width="40" /></a>
+<a href="https://twitter.com/thepoyafaraji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thepouyafaraji" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/poya-faraji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pouya-faraji" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
