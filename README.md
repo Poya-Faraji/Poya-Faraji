@@ -1,64 +1,77 @@
+<h2 align="center">Hi, I'm Pouya 👋</h2>
+<h3 align="left">Frontend Developer · React 19 · TypeScript · TanStack</h3>
 
-![Space](space.gif)
+M.Sc. Usability Engineering student at Hochschule Rhein-Waal 🇩🇪
 
-<h2 align="center">Hello 👋, My name is Pouya</h2>
-<h3 align="left">I am a Web Developer and I enjoy coding</h3>
+Looking for a **Werkstudent** or **internship (Praktikum)** role in an English-speaking team
 
-- 🌱 I have a Bachelor's degree in Software Engineering from the Technical University of Tabriz, and I’m currently working on **Fullstack Projects**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poya-faraji/) [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:pouya-faraji@outlook.com)
 
-- 💬 Feel free to ask me about **web development, Software Engineering and programming in general**.
+---
 
-- 📫 My Contact Email: **pouya-faraji@outlook.com**
+## 👨‍💻 About me
 
-- ⚡ Fun fact: **I love space, enjoy learning new things in my free time, and coding in general.**
+- 🎓 B.Sc. in Computer Engineering (Software) from Technical & Vocational University, Tabriz. Now doing an **M.Sc. in Usability Engineering** at **Hochschule Rhein-Waal** (since Oct 2026).
+- 💼 Professional experience building React and TypeScript interfaces at two companies, including an e-learning platform.
+- 🎯 I care about frontends that are **fast, accessible, and well-tested**, and my Master's in usability engineering keeps me thinking about the user first.
+- 🤖 I use AI coding tools like **Claude Code** to work faster, and I review and understand everything I ship.
 
-<h3 align="left">Checkout my socials:</h3>
-<p align="left">
-<a href="https://twitter.com/thepoyafaraji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thepouyafaraji" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/poya-faraji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pouya-faraji" height="30" width="40" /></a>
-</p>
+## ⚛️ What I'm focusing on
 
-<h3 align="left">Languages and Tools:</h3>
+I'm going deep on **modern React** and the ecosystem around it:
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![Cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![daily.dev](https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=daily.dev&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+- **React 19.2:** Actions, `useActionState`, `useOptimistic`, the `use` hook, `useEffectEvent`, `<Activity>`, and the **React Compiler** (automatic memoization)
+- **TanStack Query:** caching, background refetching, mutations, and optimistic updates, so server state stays out of my components. After that I'm exploring **TanStack Router**, **Table**, and **Form**.
+- **Forms and validation:** React Hook Form with Zod, so my types and my runtime checks stay in sync
+- **Client state:** Zustand, kept small and only where it is needed
+- **Quality:** Vitest, React Testing Library, Playwright, and accessibility checks on every project
+- **Performance:** Core Web Vitals and the React DevTools Profiler
 
+I follow the [roadmap.sh frontend roadmap](https://roadmap.sh/frontend) to make sure I'm not skipping fundamentals.
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Poya-Faraji&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Poya-Faraji&layout=compact&langs_count=8&theme=dracula"/>
-</p>
+## 🤖 AI-assisted development
+
+I learn new concepts **by hand** first (my Trello clone was built without AI on purpose), then use AI tools to move faster on real work:
+
+- **Claude Code** in the terminal for scaffolding, refactors, extending test suites, and a second pair of eyes on my code
+- **Project conventions in a `CLAUDE.md` file** (stack, folder structure, testing and accessibility rules) so generated code follows my standards
+- **Small, reviewable changes:** I read every diff, run the tests, and never commit code I can't explain
+- **Prompting with context:** clear requirements, constraints, and acceptance criteria instead of "make it work"
+
+## 🧰 Tech stack
+
+**Daily tools**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Currently leveling up**
+
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white) ![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+
+**AI tooling**
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
+
+**Also comfortable with**
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+## 🛠️ Featured projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**Trello Clone**](https://github.com/Poya-Faraji/trello-clone) | Kanban board with drag-and-drop, built without AI assistance so I'd really learn React and TypeScript | React, TypeScript, Zustand |
+| [**ALPR & Traffic Citation System**](https://github.com/Poya-Faraji/plater-react-frontend) | License plate recognition and traffic citation app | React, JavaScript, Node.js, PostgreSQL |
+| [**React Pizza App**](https://github.com/Poya-Faraji/react-pizza-app) | Ordering app from Brian Holt's React course, which I refactored from JavaScript to TypeScript | React, TypeScript, Vite |
+
+**Up next:** refactoring these projects to use TanStack Query and React 19 patterns, adding tests, and publishing live demos.
+
+## 🌍 Languages
+
+German (A2, improving every day 🇩🇪) · English (C1, IELTS) · Turkish (C1) · Persian and Azerbaijani (C2)
+
+## 📫 Let's connect
+
+I'm happy to talk about React, usability, and learning in public. If your team is hiring a Werkstudent or intern for frontend work, I'd love to hear from you:
+
+[LinkedIn](https://www.linkedin.com/in/poya-faraji/) · [pouya-faraji@outlook.com](mailto:pouya-faraji@outlook.com)
